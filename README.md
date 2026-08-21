@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mohamed Hedi Bouhoula
 
-<!--
-**mohamedhedibouhoula/mohamedhedibouhoula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems & Automation Engineer** | Python · C++ · Computer Vision · Arduino/ESP32
 
-Here are some ideas to get you started:
+WES-assessed Canadian Master's equivalent in Electrical & Automation Engineering. I build embedded systems that combine hardware control with computer vision and sensor logic — most notably the robotic-arm and CV-based control system for a medical device deployed with Hamad Medical Corporation during COVID-19, developed in partnership with Carnegie Mellon University Qatar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Ottawa, ON | 🇨🇦 Canadian Permanent Resident
+🔗 [LinkedIn](https://linkedin.com/in/mohamedhedibouhoula)
+
+---
+
+### 🛠️ Skills
+`Python` `C++` `Arduino` `ESP32` `OpenCV / Computer Vision` `Sensor Integration` `Motor Control` `Embedded Systems`
+
+### 📌 Featured Projects
+- 🔍 **[Project name]** — short one-line description
+- 🌡️ **[Project name]** — short one-line description
+- 🔌 **[Project name]** — short one-line description
+
+*(Pinned repos below — links updated as projects go live)*
