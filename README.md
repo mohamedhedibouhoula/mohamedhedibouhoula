@@ -6,6 +6,8 @@
 
 ---
 
+   📄 **[Download my resume (PDF)](https://github.com/mohamedhedibouhoula/mohamedhedibouhoula/blob/main/Hedi_Bouhoula_Resume.pdf)** · 💼 **[LinkedIn](https://www.linkedin.com/in/mohamed-hedi-bouhoula-a3877a114/)**
+
 ### 🔧 What I work on
 
 - **Firmware in C** for STM32 using the HAL and STM32CubeIDE/CubeMX
