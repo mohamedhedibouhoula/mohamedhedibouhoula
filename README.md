@@ -38,4 +38,4 @@ I built the **robotic-arm and computer-vision control system** for a medical dev
 
 ### 📫 Contact
 
-[LinkedIn](PASTE_YOUR_LINKEDIN_URL_HERE) · bouhoulamohamedhedi11@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohamed-hedi-bouhoula-a3877a114/) · bouhoulamohamedhedi11@gmail.com
